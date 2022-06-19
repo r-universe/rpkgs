@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rtrend"]
+	path = rtrend
+	url = https://github.com/rpkgs/rtrend
+	shallow = true
+	registered = true
+[submodule "VIC5"]
+	path = VIC5
+	url = https://github.com/rpkgs/vic5
+	shallow = true
+	registered = true
