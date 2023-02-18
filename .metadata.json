@@ -2,5 +2,9 @@
   {
     "package": "rtrend",
     "oncran": true
+  },
+  {
+    "package": "VIC5",
+    "oncran": true
   }
 ]
