@@ -1,10 +1,10 @@
 [
   {
-    "package": "rtrend",
+    "package": "VIC5",
     "oncran": true
   },
   {
-    "package": "VIC5",
+    "package": "rtrend",
     "oncran": true
   }
 ]
