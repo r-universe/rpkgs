@@ -1,5 +1,9 @@
 [
   {
+    "package": "rcolors",
+    "oncran": true
+  },
+  {
     "package": "rtrend",
     "oncran": true
   }
