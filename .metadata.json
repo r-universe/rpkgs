@@ -1,9 +1,5 @@
 [
   {
-    "package": "VIC5",
-    "oncran": true
-  },
-  {
     "package": "rtrend",
     "oncran": true
   }
