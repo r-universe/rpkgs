@@ -14,6 +14,9 @@
 [submodule "hydroTools"]
 	path = hydroTools
 	url = https://github.com/CUG-hydro/hydroTools
+[submodule "kfold"]
+	path = kfold
+	url = https://github.com/rpkgs/kfold
 [submodule "phenofit"]
 	path = phenofit
 	url = https://github.com/eco-hydro/phenofit
@@ -23,3 +26,6 @@
 [submodule "rtrend"]
 	path = rtrend
 	url = https://github.com/rpkgs/rtrend
+[submodule "sf2"]
+	path = sf2
+	url = https://github.com/rpkgs/sf2
