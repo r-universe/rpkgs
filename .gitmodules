@@ -5,9 +5,21 @@
 [submodule "Ipaper"]
 	path = Ipaper
 	url = https://github.com/rpkgs/Ipaper
+[submodule "VIC5"]
+	path = VIC5
+	url = https://github.com/CUG-hydro/VIC5
+[submodule "gg.layers"]
+	path = gg.layers
+	url = https://github.com/rpkgs/gg.layers
 [submodule "hydroTools"]
 	path = hydroTools
 	url = https://github.com/CUG-hydro/hydroTools
+[submodule "phenofit"]
+	path = phenofit
+	url = https://github.com/eco-hydro/phenofit
+[submodule "rcolors"]
+	path = rcolors
+	url = https://github.com/rpkgs/rcolors
 [submodule "rtrend"]
 	path = rtrend
 	url = https://github.com/rpkgs/rtrend
