@@ -7,7 +7,7 @@
 	url = https://github.com/rpkgs/Ipaper
 [submodule "VIC5"]
 	path = VIC5
-	url = https://github.com/CUG-hydro/VIC5
+	url = https://github.com/CUG-hydro/VIC5.R
 [submodule "gg.layers"]
 	path = gg.layers
 	url = https://github.com/rpkgs/gg.layers
