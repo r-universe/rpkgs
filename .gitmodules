@@ -14,6 +14,9 @@
 [submodule "hydroTools"]
 	path = hydroTools
 	url = https://github.com/CUG-hydro/hydroTools
+[submodule "hydrorecipes"]
+	path = hydrorecipes
+	url = https://github.com/jkennel/hydrorecipes
 [submodule "kfold"]
 	path = kfold
 	url = https://github.com/rpkgs/kfold
@@ -29,3 +32,6 @@
 [submodule "sf2"]
 	path = sf2
 	url = https://github.com/rpkgs/sf2
+[submodule "waterlevel"]
+	path = waterlevel
+	url = https://github.com/jkennel/waterlevel
