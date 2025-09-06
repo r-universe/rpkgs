@@ -34,4 +34,4 @@
 	url = https://github.com/rpkgs/sf2
 [submodule "waterlevel"]
 	path = waterlevel
-	url = https://github.com/jkennel/waterlevel
+	url = https://github.com/rpkgs/waterlevel
