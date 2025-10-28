@@ -28,7 +28,7 @@
 	url = https://github.com/rpkgs/rcolors
 [submodule "rgee2"]
 	path = rgee2
-	url = https://github.com/rpkgs/rgee2
+	url = https://github.com/r-spatial/rgee
 [submodule "rtrend"]
 	path = rtrend
 	url = https://github.com/rpkgs/rtrend
